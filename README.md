@@ -25,4 +25,5 @@
 
 ### 下载
 
-请前往[Release页面](https://github.com/songguo1/gaode_POI_downloader/tags)下载.exe安装文件。
+请前往[Release页面](https://github.com/songguo1/gaode_POI_downloader/releases)下载.exe安装文件。
+
