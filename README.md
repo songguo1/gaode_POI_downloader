@@ -20,3 +20,9 @@
 - 遵守高德地图 API 使用规范
 - 注意 API 调用频率限制
 - 大量数据下载可能需要较长时间
+
+
+
+### 下载
+
+请前往[Release页面](https://github.com/songguo1/gaode_POI_downloader/tags)下载.exe安装文件。
